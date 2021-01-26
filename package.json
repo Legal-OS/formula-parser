@@ -65,6 +65,7 @@
     "webpack-cli": "^4.2.0"
   },
   "dependencies": {
+    "@formulajs/formulajs": "^2.6.2",
     "@handsontable/formulajs": "^2.0.2",
     "tiny-emitter": "^2.1.0"
   },
